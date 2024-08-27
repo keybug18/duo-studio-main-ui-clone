@@ -1,2 +1,2 @@
 # duo-studio-main-ui-clone
-beautiful animated  professional website
+beautiful animated  professional website .
